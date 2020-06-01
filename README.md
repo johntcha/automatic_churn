@@ -3,7 +3,7 @@ Python program that automates the reporting of churns by gathering data from hel
 
 helpscout_credentials.json contains the credentials to access helpscout they are renewed each time the program runs  
 
-I debbuged and improved this code.  
+I debbuged and improved this code through my intern at Weglot.  
 
 All credits goes to Samuel HOLMES for the basic code development.
 
